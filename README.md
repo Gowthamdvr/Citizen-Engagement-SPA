@@ -1,20 +1,93 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# CivicSphere – Political Portfolio & Citizen Engagement SPA
 
-# Run and deploy your AI Studio app
+CivicSphere is a modern **Single Page Application (SPA)** designed to deliver a high-impact political portfolio with integrated citizen engagement features. The application includes a lightweight, frontend-driven CMS that allows administrators to update content and manage events in real time.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/drive/1ltPr2iGkdG_KXMBRKXOJTXbktKuIl0xk
+## 🌐 Project Overview
 
-## Run Locally
+The platform provides a digital identity for political leaders while enabling transparency, public participation, and real-time communication. It is fully frontend-based and deployable on static hosting platforms.
 
-**Prerequisites:**  Node.js
+---
 
+## ✨ Core Modules
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 🆔 Identity & Hero
+- Leader name, designation, party affiliation
+- Slogan and call-to-action buttons
+
+### 🎯 Vision & Mission 2030
+- Strategic roadmap using interactive cards
+- Key focus areas like education, health, youth, and farmers
+
+### 📊 Governance & Statistics
+- Animated counters displaying development data
+- Transparency-focused metrics
+
+### 🏆 Achievements & Milestones
+- Timeline and filtered gallery of completed projects
+- Infrastructure, health, and education highlights
+
+### 📰 Live News & Events
+- Dynamic announcements feed
+- Automated countdown timer for upcoming events
+
+### 🤝 Movement Enrollment (Volunteer Portal)
+- Event registration and volunteer sign-up
+- Role-based participation forms
+
+### 🔐 Admin Command Center
+- Secure admin login
+- Edit all website content in real time
+- Manage news, events, and applications
+- Data persistence using browser LocalStorage
+
+---
+
+## 🛠 Technology Stack
+
+- **TypeScript** – Type-safe data handling  
+- **React 19** – Component-based SPA architecture  
+- **Tailwind CSS** – Utility-first responsive styling  
+- **HTML5** – Semantic & accessible markup  
+- **Lucide React** – Scalable iconography  
+- **JSON** – Structured content schema  
+- **ES Modules (ESM)** – Runs directly in the browser via esm.sh  
+
+---
+
+## 🧩 Website Type
+
+**Static Single Page Application (SPA) with dynamic, client-side CMS behavior**
+
+---
+
+## 🚀 Key Highlights
+- No backend required
+- Fast and lightweight
+- Real-time admin editing
+- Event application system
+- Mobile-first responsive design
+
+---
+
+## 📦 Deployment
+- GitHub Pages
+- Netlify
+
+---
+
+## 📌 Future Enhancements
+- Backend integration (Node.js / Firebase)
+- Role-based admin access
+- Email/SMS notifications
+- Database-driven content storage
+
+---
+
+## 👨‍💻 Author
+**Gowtham V**  
+Frontend Developer | UI/UX Enthusiast  
+
+🔗 Portfolio: https://gowthamdvr.github.io/Portfolio/  
+🔗 LinkedIn: https://www.linkedin.com/in/gowtham-v-191b44318
