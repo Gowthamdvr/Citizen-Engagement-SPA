@@ -2,7 +2,7 @@
 
 CivicSphere is a modern **Single Page Application (SPA)** designed to deliver a high-impact political portfolio with integrated citizen engagement features. The application includes a lightweight, frontend-driven CMS that allows administrators to update content and manage events in real time.
 
----
+LIVE DEMO : https://neon-taiyaki-cb5bb8.netlify.app/
 
 ## 🌐 Project Overview
 
