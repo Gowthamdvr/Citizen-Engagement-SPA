@@ -1,0 +1,7 @@
+{
+  "name": "Dr. Arjun Vardhan - Official Political Portfolio",
+  "description": "A comprehensive, high-performance landing page for a political leader featuring vision statements, achievements, constituency focus, and AI-powered interaction.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
